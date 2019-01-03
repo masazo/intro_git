@@ -25,3 +25,12 @@
    46  git commit -v
    47  git log
 
+  vi second.txt
+  git add, commitやる
+ファイル削除して、
+   59  rm second.txt
+git でも削除する
+   62  git rm second.txt
+   63  git commit -v
+
+
