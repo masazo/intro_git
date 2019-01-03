@@ -1,0 +1,18 @@
+１．Gitの練習をしていきます。
+
+13  git config --global user.name "masazo"
+14  git config --global user.email gon9393@gmail.com
+15  cd ~/Desktop/intro_git/
+21  git init
+
+２．基本的なワークフローを学ぶ。
+
+ファイル
+↓ git add
+ステージングエリア
+↓git commit
+ローカルリポジトリ
+↓git push
+リモートリポジトリ
+
+
