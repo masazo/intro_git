@@ -15,4 +15,11 @@
 ↓git push
 リモートリポジトリ
 
+   36  git add first.txt
+   37  git commit
+   38  ls
+   39  git remote add origin https://github.com/masazo/intro_git.git
+   40  git push -u origin master
+
+
 
