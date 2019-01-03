@@ -21,5 +21,7 @@
    39  git remote add origin https://github.com/masazo/intro_git.git
    40  git push -u origin master
 
-
+   45  git status
+   46  git commit -v
+   47  git log
 
