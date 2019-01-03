@@ -33,4 +33,7 @@ git でも削除する
    62  git rm second.txt
    63  git commit -v
 
+git status : git commit したあとの変更した分をみる。
+
+
 
