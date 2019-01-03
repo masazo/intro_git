@@ -35,5 +35,11 @@ git でも削除する
 
 git status : git commit したあとの変更した分をみる。
 
+git log
+   72  git log
+   73  git log --oneline
+   74  git log -p first.txt
+git log -n 3
 
+git diff
 
